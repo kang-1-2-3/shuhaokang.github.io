@@ -21,4 +21,10 @@ I am a graduate student in the M.Sc. program in Geodesy and Geoinformation (GuG)
 
 My research interests include robotic perception and multi-modal localization.
 
+## Quick Links
+
+- [📚 Education](/education/) - My academic background and training
+- [📝 Publications](/publications/) - Research papers and projects
+- [📰 News](/news/) - Latest updates and announcements
+
 <!-- {% include_relative _pages/about.md %} -->
