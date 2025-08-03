@@ -3,7 +3,13 @@
 search: false
 ---
 
+
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+$body-font-size: 18px;
+$h1-font-size: 36px;
+$h2-font-size: 30px;
+$h3-font-size: 26px;
 @import "minimal-mistakes"; // main partials
