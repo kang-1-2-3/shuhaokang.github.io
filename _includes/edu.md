@@ -1,6 +1,6 @@
 ## Education
 
-<div style="margin-top: 1em;">
+<div class="news-list" style="margin-top: 1em;">
 
 <!-- TUM -->
 <div style="display: flex; align-items: center; margin-bottom: 1.5em;">
