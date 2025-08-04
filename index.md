@@ -35,6 +35,6 @@ My research interests include robotic perception and multi-modal localization.
 
 {% include news.md %}
 
-{% includeedu.md %}
+{% include edu.md %}
 
 {% include pub.md %}
