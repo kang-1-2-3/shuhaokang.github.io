@@ -18,8 +18,7 @@ author_profile: true
 }
 </style> 
 
-/* Ensure included files like edu.md and news.md inherit the same 
-styles  */
+
 <!-- .page__content .include-content {
   font-size: 0.7em;
   line-height: 1.5;
