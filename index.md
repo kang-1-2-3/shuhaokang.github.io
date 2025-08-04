@@ -20,7 +20,7 @@ author_profile: true
 
 
 .page__content .include-content {
-  font-size: 0.7em;
+  font-size: 0.6em;
   line-height: 1.5;
 }
 .page__content .include-content h1, 
