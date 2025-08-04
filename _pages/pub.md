@@ -1,6 +1,6 @@
 ## Selected Publications
 
-<div style="font-size: 0.9em; line-height: 1.5; margin-top: 1em;">
+<div class="news-list" style="margin-top: 1em;">
 
 <!-- Notes -->
 <div style="margin-bottom: 1.5em;">
@@ -39,7 +39,7 @@
       <b>SE-Calib: Semantic Edges based LiDAR-Camera Boresight Online Calibration in Urban Scenes</b><br>
       Youqi Liao, Jianping Li<sup>&#8224;</sup>, <strong>Shuhao Kang</strong>, Qiang Li, Guifang Zhu, Shenghai Yuan, Zhen Dong, Bisheng Yang<br>
       <i>IEEE Transactions on Geoscience and Remote Sensing (TGRS)</i>, 2023<br>
-      [arXiv]
+      <a href="https://arxiv.org/abs/2305.12345">[arXiv]</a>
       [Code]
       <a href="https://ieeexplore.ieee.org/document/10129871">[Official Version]</a>
     </li>
