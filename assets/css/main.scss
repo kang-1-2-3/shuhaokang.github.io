@@ -10,7 +10,7 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.news-list {
-  font-size: 1.1em;
-  line-height: 1.5;
-}
+// .news-list {
+//   font-size: 1.1em;
+//   line-height: 1.5;
+// }
