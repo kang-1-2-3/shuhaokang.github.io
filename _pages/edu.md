@@ -7,7 +7,7 @@
   <img src="./assets/images/tum.svg" alt="TUM Logo" width="70" style="margin-right: 15px;">
   <div>
     <strong>Technical University of Munich</strong><br>
-    <span>October 2022 – December 2026 (Expected)</span><br>
+    <span>October 2022 – December 2025 (Expected)</span><br>
     <span>M.Sc. in Geodesy and Geoinformation</span>
   </div>
 </div>
