@@ -37,4 +37,4 @@ My research interests include robotic perception and multi-modal localization.
 
 {% include _pages/edu.md %}
 
-{% include _pages/pub.md %}
+{{ "_pages/pub.md" | relative_url | markdownify }}
