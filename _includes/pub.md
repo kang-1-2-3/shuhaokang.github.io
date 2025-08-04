@@ -1,6 +1,6 @@
 ## Selected Publications
 
-<div class="news-list" style="margin-top: 1em;">
+<div style="margin-top: 1em;">
 
 <!-- Notes -->
 <div style="margin-bottom: 1.5em;">

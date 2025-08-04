@@ -26,7 +26,7 @@ author_profile: true
 .page__content .include-content h1, 
 .page__content .include-content h2, 
 .page__content .include-content h3 {
-  font-size: 1.1em;
+  font-size: 0.9em;
 }
 </style> 
 
