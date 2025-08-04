@@ -3,7 +3,7 @@ layout: single
 title: "About me"
 author_profile: true
 ---
-<link rel="icon" href="./earth.png" />
+
 
 <style>
 .page__content {
