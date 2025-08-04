@@ -22,4 +22,5 @@ I am a graduate student in the M.Sc. program in Geodesy and Geoinformation (GuG)
 
 My research interests include robotic perception and multi-modal localization.
 
+{% include news.md %}
 
