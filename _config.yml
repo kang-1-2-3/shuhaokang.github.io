@@ -117,7 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Master student @ Geodesy and Geoinformation, Technical University of Munich."
   location         : "Shanghai, China"
-  email            : "shuhao.kang@tum.de"
+  # email            : "shuhao.kang@tum.de"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
